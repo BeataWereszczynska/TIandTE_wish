@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Calculating theoretical MRI images with both TI (T1-weighting) and TE (T2-weighting)
-of choise, from separate T1-weighted and T2-weighted sets of images.
+of choice, from separate T1-weighted and T2-weighted sets of images.
 For Agilent SEMS (with IR) and MEMS .fid data acquired for the same slices and matrice size.
 
 @author: Beata Wereszczyńska
