@@ -1,5 +1,5 @@
 # TIandTE_wish
-Calculating theoretical MRI images with both inversion time (TI; T<sub>1</sub>-weighting) and echo time (TE; T<sub>2</sub>-weighting) of choice, from separate T<sub>1</sub>-weighted and T<sub>2</sub>-weighted sets of images. This functionality can be used to visualise how IR images would look like if TEmin could be shorter or how the images' contrast will change after TE increase (e.g. due to larger image matrix). Works with Agilent SEMS (with IR) and MEMS .fid data acquired for the same slices and matrice size.
+Calculating theoretical MRI images with both inversion time (TI; T<sub>1</sub>-weighting) and echo time (TE; T<sub>2</sub>-weighting) of choice, from separate T<sub>1</sub>-weighted and T<sub>2</sub>-weighted sets of images. This functionality can be used to visualise how inversion recovery images would look like if TEmin could be shorter or how the images' contrast will change after TE increase (e.g. due to larger image matrix). Works with Agilent SEMS (with IR) and MEMS .fid data acquired for the same slices and matrice size.
 
 ![Graphical abstract](graph_abstr_TIandTE.png)
 
